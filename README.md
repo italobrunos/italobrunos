@@ -1,10 +1,18 @@
-### Hi there 👋
+### Yo 👋
+
+Me chamo Italo e sou Cloud & Solutions Architect, Systems Engineer e baterista aposentado. Meu objetivo é buscar soluções para problemas complexos com o olhar em boas práticas, escalabilidade, custo e, principalmente, em pessoas.
+
+#### 🔭 Tecnologias
+
+Tenho interesse, principalmente, em Java (e seu ecossistema) e GCP (Google Cloud Platform), mas, gosto de tecnologia em geral, portanto, estou sempre tentando encontrar ou criar soluções interessantes.
+
+#### 📫 Me siga em outras redes
+
+- [Linkedin](https://www.linkedin.com/in/italobrunos)
+- [Twitter](https://www.twitter.com/italobrunos)
+- [YouTube](https://www.youtube.com/italobrunos)
 
 <!--
-**italobrunos/italobrunos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
