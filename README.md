@@ -6,8 +6,6 @@ Me chamo Italo e sou Cloud & Solutions Architect, Systems Engineer e baterista a
 
 Tenho interesse, principalmente, em Java (e seu ecossistema) e GCP (Google Cloud Platform), mas, gosto de tecnologia em geral, portanto, estou sempre tentando encontrar ou criar soluções interessantes.
 
-Atualmente ando bem interessado por Go e tenho estudado um pouco sobre o tema, vamos ver no que dá...
-
 #### 📫 Me siga em outras redes
 
 - [Linkedin](https://www.linkedin.com/in/italobrunos)
