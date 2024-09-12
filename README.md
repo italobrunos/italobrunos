@@ -1,6 +1,6 @@
 ### Yo 👋
 
-Me chamo Italo e sou Cloud & Solutions Architect, Systems Engineer e baterista aposentado. Meu objetivo é buscar soluções para problemas complexos com o olhar em boas práticas, escalabilidade, custo e, principalmente, em pessoas.
+Me chamo Italo e sou Arquiteto e Engenheiro de Soluções, além de ser baterista aposentado. Meu objetivo é buscar soluções para problemas complexos com o olhar em boas práticas, escalabilidade, custo e, principalmente, em pessoas.
 
 #### 🔭 Tecnologias
 
@@ -9,7 +9,6 @@ Tenho interesse, principalmente, em Java (e seu ecossistema) e GCP (Google Cloud
 #### 📫 Me siga em outras redes
 
 - [Linkedin](https://www.linkedin.com/in/italobrunos)
-- [Twitter](https://www.twitter.com/italobrunos)
 - [YouTube](https://www.youtube.com/italobrunos)
 
 <!--
